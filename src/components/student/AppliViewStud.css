@@ -1,0 +1,16 @@
+.tableSection {
+    padding: 20px;
+  }
+  
+  .MuiTable-root {
+    margin-top: 20px;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+  }
+  
+  .MuiTableCell-head {
+    background-color: #0570ad; 
+  }
+  
+  .MuiButton-root {
+    margin: 5px;
+  }
